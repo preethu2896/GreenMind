@@ -1,0 +1,19 @@
+GreenMind 🌱
+
+AI Environmental Impact Analyzer
+
+GreenMind is an AI-based web application that helps developers and AI users measure the environmental impact of AI models like GPT, LLaMA, or PaLM. It calculates CO₂ emissions and water usage, compares models, and suggests eco-friendly alternatives, helping users make greener AI choices.
+
+Features ✨
+
+Analyze AI models: Estimate CO₂ emissions and water usage based on model type, usage, and prompt length.
+
+Compare models: Rank multiple AI models by their environmental impact.
+
+Eco-friendly suggestions: Recommend alternative AI models or usage optimization tips.
+
+Dashboard & visualization: Interactive charts and graphs for easy understanding.
+
+Cumulative stats: Track environmental impact over time (optional).
+
+Responsive UI: Works on desktop and mobile with dark/light mode toggle.
