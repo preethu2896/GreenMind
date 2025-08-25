@@ -17,11 +17,11 @@ https://greenmind-blond.vercel.app/
 - Responsive UI: Works on desktop and mobile with dark/light mode toggle.
 
 # Usage 💡
-1.Enter the AI model name (e.g., GPT-4) and prompt usage details.
-2.Click Analyze to see CO₂ and water usage estimates.
-3.Use Compare to rank multiple models.
-4.Check Suggested Alternatives for greener AI options.
-5.Visualize cumulative environmental impact via interactive charts.
+- Enter the AI model name (e.g., GPT-4) and prompt usage details.
+- Click Analyze to see CO₂ and water usage estimates.
+- Use Compare to rank multiple models.
+- Check Suggested Alternatives for greener AI options.
+- Visualize cumulative environmental impact via interactive charts.
 
 # Future Enhancements 🌟
 - Real-time API integration for model usage metrics.
